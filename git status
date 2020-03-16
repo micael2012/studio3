@@ -1,0 +1,59 @@
+[33mcommit 668a313ba9c508a482e621496490bd3eedcc79a5[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: Micael Itaira Costa Pereira <AB1306362@br.atento.com>
+Date:   Sun Mar 15 22:47:56 2020 -0300
+
+    adicionando arquvis e virando para produção com o comanndo no dev
+
+[33mcommit 200dd2dd49e918ee3643c4abd21713656b306522[m
+Author: Micael Itaira Costa Pereira <AB1306362@br.atento.com>
+Date:   Sun Mar 15 22:31:31 2020 -0300
+
+    modificando o diretorio noindex
+
+[33mcommit f9ba64701271fb7e2c4c4989d96ce3c8eddb48bf[m
+Author: Micael Itaira Costa Pereira <AB1306362@br.atento.com>
+Date:   Sun Mar 15 22:28:58 2020 -0300
+
+    adicionando o.env
+
+[33mcommit 2137944cef9d18887e350e84c0041b20bc4012d5[m
+Author: Micael Itaira Costa Pereira <AB1306362@br.atento.com>
+Date:   Sun Mar 15 20:39:22 2020 -0300
+
+    adicionando pastar vendor
+
+[33mcommit 4e30fd44b121d5c5f708f3229fb35256f8b0a5e8[m
+Author: Micael Itaira Costa Pereira <AB1306362@br.atento.com>
+Date:   Sun Mar 15 20:20:35 2020 -0300
+
+    removendo a pasta public
+
+[33mcommit c5c1a97590cf6447e28f9f4e496ffc1a829aa706[m
+Author: Micael Itaira Costa Pereira <AB1306362@br.atento.com>
+Date:   Sun Mar 15 20:05:53 2020 -0300
+
+    alterando o htaccess
+
+[33mcommit 659711f9eb1c3604abbb45f5789ec1601574d4db[m
+Author: Micael Itaira Costa Pereira <AB1306362@br.atento.com>
+Date:   Sun Mar 15 16:48:16 2020 -0300
+
+    alteração no .htaccess
+
+[33mcommit 6184ca1315f5723e05de4ca3b9b4742b82479e51[m
+Author: Micael Itaira Costa Pereira <AB1306362@br.atento.com>
+Date:   Sun Mar 15 16:45:08 2020 -0300
+
+    alteração config
+
+[33mcommit ba0c9dedf6503d95d63965490b72b6f2808df0e8[m
+Author: Micael Itaira Costa Pereira <AB1306362@br.atento.com>
+Date:   Sun Mar 15 16:42:28 2020 -0300
+
+    teste
+
+[33mcommit 8c01f5449e142619c906b1b1df7229c97009a952[m
+Author: Micael Itaira Costa Pereira <AB1306362@br.atento.com>
+Date:   Sun Mar 15 15:22:50 2020 -0300
+
+    primeiromapeando os arquivos
