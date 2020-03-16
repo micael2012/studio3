@@ -96,5 +96,15 @@
                 </div>
             </div>
         </div>
+
+        <script type="text/javascript" src="{{asset('resource/jquery.js')}}"></script>
+
+        <script type="text/javascript">
+            $(document).ready(function(){
+                alert('teste');
+            });
+
+
+        </script>
     </body>
 </html>
